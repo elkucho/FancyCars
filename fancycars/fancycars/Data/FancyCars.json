@@ -1,0 +1,137 @@
+[
+    {
+        "id": 1,
+        "img": "vehicle_350z.png",
+        "name": "350z Sport - Dark Gray",
+        "make": "Nissan",
+        "model": "350z",
+        "year": 2018,
+        "availability": "In Dealership"
+    },
+    {
+        "id": 2,
+        "img": "vehicle_370z.png",
+        "name": "370z Sport - Red",
+        "make": "Nissan",
+        "model": "370z",
+        "year": 2018,
+        "availability": "In Dealership"
+    },
+    {
+        "id": 3,
+        "img": "vehicle_Altima.png",
+        "name": "Altima 4 doors - Black",
+        "make": "Nissan",
+        "model": "Altima",
+        "year": 2017,
+        "availability": "Out Of Stock"
+    },
+    {
+        "id": 4,
+        "img": "vehicle_Armada.png",
+        "name": "Armada SUV - White",
+        "make": "Nissan",
+        "model": "350z",
+        "year": 2018,
+        "availability": "Unavailable"
+    },
+    {
+        "id": 5,
+        "img": "vehicle_Frontier.png",
+        "name": "Frontier Sport - 4x4",
+        "make": "Nissan",
+        "model": "Frontier",
+        "year": 2018,
+        "availability": "In Dealership"
+    },
+    {
+        "id": 6,
+        "img": "vehicle_Juke.png",
+        "name": "Juke Compact Sport",
+        "make": "Nissan",
+        "model": "Juke",
+        "year": 2018,
+        "availability": "Out Of Stock"
+    },
+    {
+        "id": 7,
+        "img": "vehicle_Maxima.png",
+        "name": "Maxima 4 Doors - White Pearl",
+        "make": "Nissan",
+        "model": "Maxima",
+        "year": 2018,
+        "availability": "Unavailable"
+    },
+    {
+        "id": 8,
+        "img": "vehicle_Micra.png",
+        "name": "Micra 4 Doors",
+        "make": "Nissan",
+        "model": "Micra",
+        "year": 2018,
+        "availability": "In Dealership"
+    },
+    {
+        "id": 9,
+        "img": "vehicle_Murano.png",
+        "name": "Murano - White",
+        "make": "Nissan",
+        "model": "Murano",
+        "year": 2018,
+        "availability": "In Dealership"
+    },
+    {
+        "id": 10,
+        "img": "vehicle_Pathfinder.png",
+        "name": "Pathfinder - Limited Edtion",
+        "make": "Nissan",
+        "model": "Pathfinder",
+        "year": 2018,
+        "availability": "Out Of Stock"
+    },
+    {
+        "id": 11,
+        "img": "vehicle_Qashqai.png",
+        "name": "Qashqai - Compact SUV",
+        "make": "Nissan",
+        "model": "Qashqai",
+        "year": 2018,
+        "availability": "In Dealership"
+    },
+    {
+        "id": 12,
+        "img": "vehicle_Titan.png",
+        "name": "Titan - Utility",
+        "make": "Nissan",
+        "model": "Titan",
+        "year": 2018,
+        "availability": "Out Of Stock"
+    },
+    {
+        "id": 13,
+        "img": "vehicle_Versa.png",
+        "name": "Versa - Sedan White",
+        "make": "Nissan",
+        "model": "Versa",
+        "year": 2018,
+        "availability": "In Dealership"
+    },
+    {
+        "id": 14,
+        "img": "vehicle_XTerra.png",
+        "name": "XTerra - Utility SUV",
+        "make": "Nissan",
+        "model": "XTerra",
+        "year": 2018,
+        "availability": "Unavailable"
+    },
+    {
+        "id": 15,
+        "img": "vehicle_XTrail.png",
+        "name": "XTrail - Red SUV",
+        "make": "Nissan",
+        "model": "XTrail",
+        "year": 2018,
+        "availability": "Unavailable"
+    }
+]
